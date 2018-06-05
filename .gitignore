@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+MultyThreadStudy/.vs/*
+MultyThreadStudy/MultyThreadStudy/obj/Debug/*
